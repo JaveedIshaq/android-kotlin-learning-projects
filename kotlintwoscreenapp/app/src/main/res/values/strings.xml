@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Favorite Words</string>
+    <string name="petrichor_word">Petrichor</string>
+    <string name="petrichor_meaning">a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather.</string>
+    <string name="defenestrate_word">Defenestrate</string>
+    <string name="defenestrate_meaning">remove or dismiss (someone) from a position of power or authority.</string>
+    <string name="unknow_word">Sorry i dont know this word</string>
+</resources>
